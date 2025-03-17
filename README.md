@@ -1,14 +1,14 @@
 ## Olympic Medals Tracker
 
-Introduction
+# Introduction
 
 This Python application is designed to provide an interactive platform for exploring Olympic medal statistics. With a simple GUI, users can view medal counts by country, analyze the top-performing nations, and visualize data through compelling charts.
 
-Installation
+# Installation
 
 Clone this repository:
 
-git clone https://github.com/yourusername/olympic-medals-tracker.git
+git clone https://github.com/elifirinci/olympic-visual-analysis.git
 
 Navigate to the project directory:
 
@@ -18,7 +18,7 @@ Install the required Python libraries:
 
 pip install -r requirements.txt
 
-Usage
+# Usage
 
 Run the application:
 
@@ -34,11 +34,11 @@ Select a country to view medal statistics.
 
 Analyze top-performing countries using the "Show top 10 performing countries analytics" button.
 
-Note
+# Note
 
 Ensure that the BBC Sports URL used in the application is accurate and accessible. Replace the placeholder image "olympic.png" with a valid local image path.
 
-Author
+# Author
 
 Developed by Elif FIRINCI.
 
